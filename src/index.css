@@ -1,0 +1,25 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #bb8888;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#title {
+  margin: 40px;
+  letter-spacing: 4px;
+}
+
+.author {
+  font-size: 13px;
+  margin: 20px;
+  letter-spacing: 2px;
+}
+
+.author i {
+  color: black;
+}
+
+.author i:hover {
+  color: #ffc9ca;
+}
